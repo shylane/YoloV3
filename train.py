@@ -154,15 +154,15 @@ def train():
     # scheduler = lr_scheduler.MultiStepLR(optimizer, [round(epochs * x) for x in [0.8, 0.9]], 0.1, start_epoch - 1)
 
     # Plot lr schedule
-    # y = []
-    # for _ in range(epochs):
-    #     scheduler.step()
-    #     y.append(optimizer.param_groups[0]['lr'])
-    # plt.plot(y, '.-', label='LambdaLR')
-    # plt.xlabel('epoch')
-    # plt.ylabel('LR')
-    # plt.tight_layout()
-    # plt.savefig('LR.png', dpi=300)
+    y = []
+    for _ in range(epochs):
+        scheduler.step()
+        y.append(optimizer.param_groups[0]['lr'])
+    plt.plot(y, '.-', label='LambdaLR')
+    plt.xlabel('epoch')
+    plt.ylabel('LR')
+    plt.tight_layout()
+    plt.savefig('LR.png', dpi=300)
 
     # Initialize distributed training
     if device.type != 'cpu' and torch.cuda.device_count() > 1 and torch.distributed.is_available():
@@ -479,4 +479,4 @@ if __name__ == '__main__':
             print_mutation(hyp, results, opt.bucket)
 
             # Plot results
-            # plot_evolution_results(hyp)
+            plot_evolution_results(hyp)

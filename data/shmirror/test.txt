@@ -1,0 +1,11 @@
+./data/shmirror/images/76520898_medium.jpg
+./data/shmirror/images/73493454_medium.jpg
+./data/shmirror/images/main-qimg-4a2e6fa6db96b5f95e964d146a74f59d-lq.jpg
+./data/shmirror/images/a178327161977bed19c26881b8753d5a9949c8d0.jpg
+./data/shmirror/images/tips-for-a-mirror-facing-the-front-door-1274597-hero-9d27ddf9e70a4bcab825fb9521efff61.jpg
+./data/shmirror/images/16843991316465e41b32c382.58791889.jpg
+./data/shmirror/images/Arch2O-decorating-with-mirrors-25-creative-ways-to-reflect-light-and-space-1.jpg
+./data/shmirror/images/16843990626465e3d64c5d71.99978625.jpg
+./data/shmirror/images/3-AIS-1.jpg
+./data/shmirror/images/How-is-the-Troxler-effect-applicable-to-mirrors-1.jpg
+./data/shmirror/images/funny-pics-people-selling-mirrors-12-6613f76c47457__700.jpg

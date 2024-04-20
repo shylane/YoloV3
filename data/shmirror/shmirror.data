@@ -1,0 +1,4 @@
+classes=1
+train=data/shmirror/train.txt
+valid=data/shmirror/train.txt
+names=data/shmirror/shmirror.names

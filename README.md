@@ -71,7 +71,7 @@ walle
 
 As you can see in the collage image above, a lot is going on, and if you are creating a set of say 500 images, you'd get a bonanza of images via default augmentations being performed. 
 
-*As per instruction above, I have added the class 'mirror' as I am trying to detect mirrors in the images. the concerned folder in data is marked 'shmirror'.*
+*As per instruction above, I have added the class 'mirror' as I am trying to detect mirrors in the images. The concerned folder in data is marked 'shmirror'.*
 
 **Results**
 After training for 100 Epochs, results are better than my expectation!
@@ -79,24 +79,34 @@ Below are some test images on which training was not conducted.
 
 ![image](https://github.com/shylane/YoloV3/blob/master/output/76520898_medium.jpg)
 Correctly detected!
+
 ![image](https://github.com/shylane/YoloV3/blob/master/output/73493454_medium.jpg)
 Missed detection!
+
 ![image](https://github.com/shylane/YoloV3/blob/master/output/main-qimg-4a2e6fa6db96b5f95e964d146a74f59d-lq.jpg)
 Missed detection!
+
 ![image](https://github.com/shylane/YoloV3/blob/master/output/a178327161977bed19c26881b8753d5a9949c8d0.jpg)
 Missed detection!
+
 ![image](https://github.com/shylane/YoloV3/blob/master/output/tips-for-a-mirror-facing-the-front-door-1274597-hero-9d27ddf9e70a4bcab825fb9521efff61.jpg)
 One correct detection and one false detection!
+
 ![image](https://github.com/shylane/YoloV3/blob/master/output/16843991316465e41b32c382.58791889.jpg)
 One correctly detected (albeit the score does not appear) and missed detecting one!
+
 ![image](https://github.com/shylane/YoloV3/blob/master/output/Arch2O-decorating-with-mirrors-25-creative-ways-to-reflect-light-and-space-1.jpg)
 Correctly detected!
+
 ![image](https://github.com/shylane/YoloV3/blob/master/output/16843990626465e3d64c5d71.99978625.jpg)
 Correctly detected!
+
 ![image](https://github.com/shylane/YoloV3/blob/master/output/3-AIS-1.jpg)
 Correctly detected!
+
 ![image](https://github.com/shylane/YoloV3/blob/master/output/How-is-the-Troxler-effect-applicable-to-mirrors-1.jpg)
 Correctly detected!
+
 ![image](https://github.com/shylane/YoloV3/blob/master/output/funny-pics-people-selling-mirrors-12-6613f76c47457__700.jpg)
 Correctly detected!
 
@@ -658,3 +668,5 @@ Model Bias Summary:    layer        regression        objectness    classificati
                Class    Images   Targets         P         R   mAP@0.5        F1: 100%|███████████████████████████████████████████████████| 7/7 [00:01<00:00,  5.77it/s]
                  all       106       128     0.957     0.984     0.985      0.97
 100 epochs completed in 0.119 hours.
+
+![image](https://github.com/shylane/YoloV3/blob/master/results.png)

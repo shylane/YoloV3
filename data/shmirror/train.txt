@@ -3,8 +3,8 @@
 ./data/shmirror/images/467580685_XS.jpg
 ./data/shmirror/images/mirror-reflection-loriental-photography.jpg
 ./data/shmirror/images/at_style_2020-09_Mirrors_Garden_mirror.jpg
-./data/shmirror/images/16843988796465e31f833a43.76999365.jpg
-./data/shmirror/images/16843987566465e2a47e4418.26158327.jpg
+./data/shmirror/images/16843988796465e31f833a43_76999365.jpg
+./data/shmirror/images/16843987566465e2a47e4418_26158327.jpg
 ./data/shmirror/images/66151dd2a6adb_funny-pics-people-selling-mirrors.jpg
 ./data/shmirror/images/78137049_large.jpg
 ./data/shmirror/images/oversized-mirrors-in-homes-the-illusion-of-multiplied-space_40.jpg
@@ -21,7 +21,7 @@
 ./data/shmirror/images/4484009221_e21e36532e_b.jpg
 ./data/shmirror/images/Living-Room-Setting-Mirror02-w.jpg
 ./data/shmirror/images/main-qimg-19753faffbe69c42d177defb8e0c0cc4-lq.jpg
-./data/shmirror/images/TwU7Gk9nKEkd3Ytzb3oYYF-768-80.jpg.jpg
+./data/shmirror/images/TwU7Gk9nKEkd3Ytzb3oYYF-768-80_jpg.jpg
 ./data/shmirror/images/LightDwell-3095c5279d0b4511b10d154f3a21a9b7.jpg
 ./data/shmirror/images/gettyimages-526295555-2048x2048.jpg
 ./data/shmirror/images/859423716_9d042b5460_z.jpg
@@ -37,7 +37,7 @@
 ./data/shmirror/images/1689067767132.jpg
 ./data/shmirror/images/76e709ca8c105da6d9482d397afec3b6.jpg
 ./data/shmirror/images/main-qimg-016ee6665674198ad9d2a539486fa595-lq.jpg
-./data/shmirror/images/CcoCPCkPrr8hZKQ3pqTbCF-768-80.jpg.jpg
+./data/shmirror/images/CcoCPCkPrr8hZKQ3pqTbCF-768-80_jpg.jpg
 ./data/shmirror/images/main-qimg-914e82e03768c3950b5e09cf674f9b3b-lq.jpg
 ./data/shmirror/images/79124766_medium.jpg
 ./data/shmirror/images/Vastu-tips-for-placing-mirrors-at-home-and-office-FB-1200x700-compressed.jpg
@@ -59,9 +59,9 @@
 ./data/shmirror/images/_15 (2).jpg
 ./data/shmirror/images/b150f3df14dd22ac4729a6c6dcf037749eb1109e.jpg
 ./data/shmirror/images/bw-broken-mirror-2500px.jpg
-./data/shmirror/images/16843988186465e2e2d4a9f7.82462206.jpg
+./data/shmirror/images/16843988186465e2e2d4a9f7_82462206.jpg
 ./data/shmirror/images/_22.jpg
-./data/shmirror/images/TSvCX5CmvMxzBt8JqMyU2F-768-80.jpg.jpg
+./data/shmirror/images/TSvCX5CmvMxzBt8JqMyU2F-768-80_jpg.jpg
 ./data/shmirror/images/68609770_medium.jpg
 ./data/shmirror/images/6613ea8e351c6_funny-pics-people-selling-mirrors.jpg
 ./data/shmirror/images/3-feng-shui-mirro-in-the-dining-room.jpg
@@ -80,14 +80,14 @@
 ./data/shmirror/images/VaughanStreetPortlandMaineMasterBedroomSideTable-41756b198ca0408eaa270f1afccdc065.jpg
 ./data/shmirror/images/mirror-playground.jpg
 ./data/shmirror/images/close-up-desk-with-mirror-other-decorations-768x512.jpg
-./data/shmirror/images/16843990826465e3ea83a1b8.54040960.jpg
-./data/shmirror/images/16843992236465e4770c54a9.75967571.jpg
+./data/shmirror/images/16843990826465e3ea83a1b8_54040960.jpg
+./data/shmirror/images/16843992236465e4770c54a9_75967571.jpg
 ./data/shmirror/images/82307655_large.jpg
 ./data/shmirror/images/pexels-julia-malushko-8070380.jpg
 ./data/shmirror/images/main-qimg-876e0e9f7481f77b0bc8c31e5ecdaa76-lq.jpg
 ./data/shmirror/images/b4624d672a24678a31bd982fe168d5b1.jpg
 ./data/shmirror/images/74509027_large.jpg
-./data/shmirror/images/16843988366465e2f4979a25.76915608.jpg
+./data/shmirror/images/16843988366465e2f4979a25_76915608.jpg
 ./data/shmirror/images/side-mirror-2500px.jpg
 ./data/shmirror/images/_11.jpg
 ./data/shmirror/images/1_QOXvzBP_6FR1WRGd7SRDHw.jpg
@@ -95,7 +95,7 @@
 ./data/shmirror/images/funny-pics-people-selling-mirrors-10-6613f2c86f632__700.jpg
 ./data/shmirror/images/Arch2O-decorating-with-mirrors-25-creative-ways-to-reflect-light-and-space-11-767x1007.jpg
 ./data/shmirror/images/2454755564_31c4cc6fd2_o.jpg
-./data/shmirror/images/PA5cUo5DG47dLKeRfoL78G-768-80.jpg.jpg
+./data/shmirror/images/PA5cUo5DG47dLKeRfoL78G-768-80_jpg.jpg
 ./data/shmirror/images/modern-bedroom-interior-stylish-large-mirror_0_1200.jpg
 ./data/shmirror/images/9ef4471896a074f243da6e13a0dd24dc.jpg
 ./data/shmirror/images/66401405_large.jpg
@@ -104,3 +104,4 @@
 ./data/shmirror/images/Vastu-tips-for-placing-mirrors-at-home-and-office-shutterstock_1434167726.jpg
 ./data/shmirror/images/mirror-home-brighter-bigger-64638b4e6a8ab.jpg
 ./data/shmirror/images/pexels-maher-meskko-10009062.jpg
+..jpg
